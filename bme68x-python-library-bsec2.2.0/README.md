@@ -1,7 +1,7 @@
 # BME68X and BSEC2.0 for Python by pi3g
 
 This is a temporary clone of the PI3G repository amended to support the BOSCH BSEC 2.2.0 library (BSEC_2.2.0.0_Generic_Release_30052022) only. 
-For more information on the library please see the original PI3G repository [here] (https://github.com/pi3g/bme68x-python-library) which works with the 2.0.6.1 release of the BOSCH BSEC Library. Once PI3G extend their support to the later BOSCH releases I expect this repo will be removed.
+For more information on the library please see the original PI3G repository [here](https://github.com/pi3g/bme68x-python-library) which works with the 2.0.6.1 release of the BOSCH BSEC Library. Once PI3G extend their support to the later BOSCH releases I expect this repo will be removed.
 
 
 ### How to install the extension with BSEC
