@@ -41,10 +41,6 @@ bme68x.set_heatr_conf(1, 320, 100, 1)
 data = bme68x.get_data()
 ```
 
-#### For documentation and examples please refer to our [GitHub](https://github.com/pi3g/bme68x-python-library)<br>
-#### For feedback, bug reports or functionality requests send an E-mail to nathan@pi3g.com<br>
-
-
 ![pi3g logo](https://pi3g.com/wp-content/uploads/2015/06/pi3g-150px-only-transparent-e1622110450400.png)<br>
 pi3g is an official approved Raspberry Pi reseller, and a Coral Machine Learning Platform (from Google) distribution partner.<br>
 We take care of all your Raspberry Pi and Coral related hardware and software development, sourcing, accessory and consulting needs!<br>
