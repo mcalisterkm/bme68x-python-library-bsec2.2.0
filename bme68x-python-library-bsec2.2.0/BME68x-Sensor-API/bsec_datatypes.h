@@ -285,10 +285,8 @@ typedef enum
      * @note IAQ solution: If ::BSEC_INPUT_HEATSOURCE is used for device specific temperature compensation, it will be 
      * effective for ::BSEC_OUTPUT_SENSOR_HEAT_COMPENSATED_HUMIDITY too.
      */
-    BSEC_OUTPUT_SENSOR_HEAT_COMPENSATED_HUMIDITY = 15, 
-
-    BSEC_OUTPUT_COMPENSATED_GAS = 18,   /* BOSCH Reserved*/
-
+    BSEC_OUTPUT_SENSOR_HEAT_COMPENSATED_HUMIDITY = 15,    
+    BSEC_OUTPUT_COMPENSATED_GAS = 18,
 	BSEC_OUTPUT_GAS_PERCENTAGE = 21,                        /*!< percentage of min and max filtered gas value [%] */
 	
     /**
